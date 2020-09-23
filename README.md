@@ -4,7 +4,8 @@ Created an Online Shopping Cart using Xampp MySQL, Express, Angular, Nodejs.
 
 ##Screen-Shots
 ##Header Home Footer
-![Screenshot (476)](https://user-images.githubusercontent.com/71216473/93983894-c5011a80-fda0-11ea-9460-cfba9252a110.png)
-![Screenshot (461)](https://user-images.githubusercontent.com/71216473/93983905-c7fc0b00-fda0-11ea-8cde-ce1b6156d8c7.png)
-![Screenshot (451)](https://user-images.githubusercontent.com/71216473/93983902-c6324780-fda0-11ea-9976-3d777300bd4a.png)
-![Screenshot (471)](https://user-images.githubusercontent.com/71216473/93983911-c92d3800-fda0-11ea-9a99-565642b66fe0.png)
+![Screenshot (471)](https://user-images.githubusercontent.com/71216473/93985336-8cfad700-fda2-11ea-82a5-bd044b7a9e0f.png)
+![Screenshot (452)](https://user-images.githubusercontent.com/71216473/93985348-91bf8b00-fda2-11ea-91eb-b4e949ed6b55.png)
+![Screenshot (451)](https://user-images.githubusercontent.com/71216473/93985355-95531200-fda2-11ea-899c-bcad3f50ceca.png)
+![Screenshot (470)](https://user-images.githubusercontent.com/71216473/93985363-984e0280-fda2-11ea-9881-399ae9046221.png)
+
