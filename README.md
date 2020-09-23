@@ -7,8 +7,7 @@ Created an Online Shopping Cart using Xampp MySQL, Express, Angular, Nodejs.
 ## Screen-Shots
 
 ## Header Home Footer
-![Screenshot (471)](https://user-images.githubusercontent.com/71216473/93992671-75741c00-fdab-11ea-809c-bf53e60bf344.png)
-
+![imgonline-com-ua-twotoone-gBtRam7vXkkyo](https://user-images.githubusercontent.com/71216473/93992855-afddb900-fdab-11ea-8a65-aeee4f40d65c.png)
 
 
 ## Add to cart toast notification
