@@ -30,8 +30,9 @@ Created an Online Shopping Cart using Xampp MySQL, Express, Angular, Nodejs.
 
 ![Screenshot (473)](https://user-images.githubusercontent.com/71216473/93986589-2a0a3f80-fda4-11ea-86d5-4a8a155f8cb0.png)
 
-## Login and registration 
+## Login 
 ![Screenshot (475)](https://user-images.githubusercontent.com/71216473/93986713-4c9c5880-fda4-11ea-874c-5d1c88c04293.png)
 
+## Registration 
 ![Screenshot (474)](https://user-images.githubusercontent.com/71216473/93986733-51f9a300-fda4-11ea-9531-3a2dcb277b0a.png)
 
